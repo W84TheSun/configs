@@ -4,7 +4,7 @@ aaaaaa	 //Directive
 f3c5ff	 //Macro name
 7e6082	 //Register name
 666666	 //Other keywords
-ffffff	 //Dummy data name
+c7c7c7	 //Dummy data name
 b9ebeb	 //Dummy code name
 b9ebeb	 //Dummy unexplored name
 bbecff	 //Hidden name
@@ -32,7 +32,7 @@ ffff00	 //Code reference
 00f379	 //Repeatable comment
 3250d2	 //Extra line
 ababab	 //Collapsed line
-adad73	 //Line prefix: library function
+d93823	 //Line prefix: library function
 fd5aff	 //Line prefix: regular function
 7fffff	 //Line prefix: instruction
 00ffaa	 //Line prefix: data
@@ -41,7 +41,7 @@ ffaaff	 //Line prefix: externs
 00ffff	 //Line prefix: current item
 000000	 //Line prefix: current line
 2d2d2d	 //Punctuation
-32ade1	 //Opcode bytes
+1e70ff	 //Opcode bytes
 ffff00	 //Manual operand
 666666	 //Error
 0000aa	 //Default color
@@ -101,5 +101,5 @@ ffaaaa	 //Highlighted edge
 d4d4d4	 //Message background
 404080	 //Patched bytes
 0080ff	 //Unsaved changes
-00ffff	 //Highlight color
-e1ffff	 //Hint color
+1e70ff	 //Highlight color
+2d2d2d	 //Hint color
